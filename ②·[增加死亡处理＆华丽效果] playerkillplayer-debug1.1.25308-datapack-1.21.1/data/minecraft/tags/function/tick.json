@@ -1,0 +1,7 @@
+{
+  "values": [
+    "playerkillplayer:tick",
+    "playerkillplayer:function/disp_die",
+    "playerkillplayer:function/victory_detection"
+  ]
+}
